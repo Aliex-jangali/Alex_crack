@@ -8,7 +8,6 @@
 
 import sys
 import random
-import mechanize
 import cookielib
 import pdb
 
